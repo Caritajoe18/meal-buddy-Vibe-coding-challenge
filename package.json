@@ -1,0 +1,13 @@
+{
+  "name": "mealbuddy",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev:frontend": "npm run dev -w frontend",
+    "build:frontend": "npm run build -w frontend",
+    "dev:backend": "npm run dev -w backend"
+  }
+}
