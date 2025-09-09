@@ -19,7 +19,8 @@ export default function HomePage() {
             </div>
             <div className="flex items-center gap-4">
               <Link href="/auth/login">
-                <Button variant="ghost" size="sm">Sign In</Button>
+                {/* <Button variant="ghost" size="sm">Sign In</Button> */}
+                <Button size="sm">Login</Button>
               </Link>
               <Link href="/auth/sign-up">
                 <Button size="sm">Get Started</Button>
