@@ -1,7 +1,0 @@
-fastapi
-openai
-pydantic
-python-dotenv
-python-multipart
-supabase
-uvicorn
