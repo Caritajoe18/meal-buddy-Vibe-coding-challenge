@@ -1,0 +1,14 @@
+{
+  "node": {
+    "e0f773210e77f64ff6b12bed2de51b8cc00d9aaa": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/.pnpm/next@14.2.16_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fcarita%2FDesktop%2Fpersonal-portfolio-projects%2Fvibe-app%202%2Fapp%2Factions%2FsignOut.ts%22%2C%5B%22handleSignOut%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "eNo9FwJXdyIAM4CzK2fVbrWtMwZ2IsIKyx4aUGtYSfY="
+}
